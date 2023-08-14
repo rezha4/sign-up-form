@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    font-family: ;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+}
+
+aside {
+    background-image: url(./background.jpg);
+    background-size: cover;
+    width: 65em;
+
+    display: flex;
+    flex-direction: column;
+}
+
+main {
+    background-color: white;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.form-container {
+    background-color: grey;
+    box-shadow: 1em;
+    height: 200px;
+}
+
+.logo-container {
+    margin-top: 10rem;
+    background-color: rgba(21, 26, 18, 0.3);
+    color: white;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo-container img {
+    width: auto;
+    height: 150px;
+    padding: 1em 0;
+}
+
+footer {
+    display: flex;
+    flex-direction: column;
+    border: solid black 1px;
+}
