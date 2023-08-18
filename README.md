@@ -14,15 +14,17 @@ Sign-up Form, visual implementation of form basics &amp; form validation theorie
 
 
 # features
-##
+## mock-up sign up page with custom styling
 
 # usage
-##
+## 
 
 # outcome
 ##
 
 # what i learned
+## 1. CSS Pseudo-classes
+## 2. Form stylings
 ##
 
 # acknowledgements
